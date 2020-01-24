@@ -1,0 +1,34 @@
+#main{
+    background-color: #00b9e2;
+  }
+
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  /* Firefox */
+  input[type=number] {
+    -moz-appearance:textfield;
+  }
+
+  .btn-my-color{
+    background-color: #00b9e2;
+    border-color:white;
+    color: white;
+  }
+
+  .form-space{
+    margin: 4px;
+  }
+
+.color-table{
+  color: #808080;
+}
+.paragrafo{
+  text-align: left;
+}
+.titulo{
+  text-align: center;
+}
